@@ -15,10 +15,14 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ 
+### Un exemple personnel commenté ✔️
+
+![carbon](https://user-images.githubusercontent.com/71608249/225858776-9e6ebe2d-0fa7-4950-86fc-4ba89154fef9.png)
+
 
 ### Utilisation dans un projet  ✔️
 
+[lien github](https://github.com/Lindow-N/todoapp)
 [lien github](https://github.com/Lindow-N/Sushiman---Food-Landing-Pages)
 
 Description :
@@ -26,6 +30,7 @@ Description :
 ### Utilisation en production si applicable ✔️
 
 [lien du projet](https://lindow-n.github.io/Sushiman---Food-Landing-Pages/)
+[lien du projet](https://lindow-n.github.io/todoapp/)
 
 Description :
 
