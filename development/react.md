@@ -6,34 +6,34 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- l'état (_state_) pour contrôler l'affichage d'un composant ❌ / ✔️
-- les composants enfants et les _props_ qu'on leur passe ❌ / ✔️
-- le déclenchement d'instructions en fonction des actions de l'utilisateur ❌ / ✔️
-- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ❌ / ✔️
+- l'état (_state_) pour contrôler l'affichage d'un composant  ✔️
+- les composants enfants et les _props_ qu'on leur passe  ✔️
+- le déclenchement d'instructions en fonction des actions de l'utilisateur  ✔️
+- le déclenchement d'instructions en fonction de l'étape du cycle de vie du composant ou du changement de valeur de ses props ✔️
 - l'usage d'un reducer (_useReducer_) pour gérer un état composé dans un composant
-- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext` ❌ / ✔️
+- l'état stocké dans un composant avec un _context provider_ et accessible dans ses descendants via `useContext`  ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ❌ 
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet  ✔️
 
-[lien github](...)
-
-Description :
-
-### Utilisation en production si applicable❌ / ✔️
-
-[lien du projet](...)
+[lien github](https://github.com/Lindow-N/Sushiman---Food-Landing-Pages)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en production si applicable ✔️
+
+[lien du projet](https://lindow-n.github.io/Sushiman---Food-Landing-Pages/)
 
 Description :
 
-## 🌐 J'utilise des ressources
+### Utilisation en environement professionnel  ✔️
+
+Description : J'ai utilisé react  / typescript / react-native pendant 6 mois a ma précédente entreprise.
+
+## 🌐 J'utilise des ressources 
 
 ### Titre
 
@@ -42,7 +42,7 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage  ✔️
 
 Description:
 
