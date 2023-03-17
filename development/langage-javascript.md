@@ -13,11 +13,10 @@
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ 
+### Un exemple de code commenté ✔️
 
-```javascript
-(e) => mc2;
-```
+![carbon](https://user-images.githubusercontent.com/71608249/225858549-695fed2c-9c1f-4eed-a152-ecd7863f00cf.png)
+
 
 ### Utilisation dans un projet  ✔️
 
