@@ -15,34 +15,9 @@
 
 ### Un exemple personnel commenté  ✔️
 
-`import { Dispatch } from "react";
-import { NavigateFunction } from "react-router";
-import { toast } from "react-toastify";
-import { ICar } from "../../interfaces/Car";
-import { axiosInstance } from "../api";
 
+![carbon (1)](https://user-images.githubusercontent.com/71608249/225858295-d505bf87-a5e4-4f8b-bc9d-f49dd46ccdc4.png)
 
-export const getUserVehicles = async (
-  setUserVehicles?: Dispatch<Array<ICar>>,
-  setFavoriteUserVehicles?: Dispatch<Array<ICar>>,
-  navigate?: NavigateFunction
-) => {
-  return await axiosInstance
-    .get("/accounts/vehicles")
-    .then((response) => {
-      if (response.status === 200) {
-        setFavoriteUserVehicles && setFavoriteUserVehicles(response.data.favorites);
-        setUserVehicles && setUserVehicles(response.data.availables);
-      }
-      return response.data;
-    })
-    .catch((error) => {
-      navigate && navigate("/voiture");
-      toast.error("Echec de la récupération du détail de vos véhicules, réesayez plus tard");
-      return null;
-    });
-};
-`
 
 ### Utilisation dans un projet ❌ 
 
